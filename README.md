@@ -2,7 +2,7 @@
 
 这是一个小练习，能够初步让你了解KNN算法。
 
-实现思路：[博文地址](https://blog.csdn.net/DaXiongRen/article/details/121594192)
+实现思路：[博客文章地址](https://blog.csdn.net/DaXiongRen/article/details/121594192)
 
 
 
