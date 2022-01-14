@@ -5,8 +5,8 @@
  * @version 1.0
  * @date 2021-11-28
  * @copyright Copyright (c) 2021
- * wx:zzcxy9
- * qq:1716702942
+ * WeChat:bugp_p
+ * QQ:1716702942
  */
 #ifndef __KNN_H
 #define __KNN_H
