@@ -1,6 +1,6 @@
 # KNN算法实现鸢尾花数据集分类 C语言实现(附数据集)
 
-这是一个小练习，能够初步让你了解KNN算法。
+这是一个小练习，能够让你了解KNN算法。
 
 实现思路：[博客文章地址](https://blog.csdn.net/DaXiongRen/article/details/121594192)
 
